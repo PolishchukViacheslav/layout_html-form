@@ -5,3 +5,7 @@ fieldset {
 .wrap {
   margin-bottom: 10px;
 }
+
+.wrap :last-child {
+  margin-bottom: 0;
+}
