@@ -6,6 +6,6 @@ fieldset {
   margin-bottom: 10px;
 }
 
-.wrap :last-child {
+.wrap:last-child {
   margin-bottom: 0;
 }
